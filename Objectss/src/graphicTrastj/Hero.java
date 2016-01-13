@@ -19,7 +19,7 @@ public class Hero {
 		x= locationx;
 		y=locationy;
 		
-		
+		//hii
 		
 		
 		sprite = new BufferedImage (width,height,BufferedImage.TYPE_INT_ARGB);
