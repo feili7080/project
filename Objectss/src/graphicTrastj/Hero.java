@@ -20,7 +20,7 @@ public class Hero {
 		y=locationy;
 		
 		//hii
-		//gucci
+		//guccibetch
 		
 		sprite = new BufferedImage (width,height,BufferedImage.TYPE_INT_ARGB);
 		
